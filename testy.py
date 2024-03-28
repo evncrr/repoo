@@ -1,2 +1,2 @@
 def fun(name):
-    print(f"hello {name}")
+    print(f"Hello {name}! Have a Great Day!")
