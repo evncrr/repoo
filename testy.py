@@ -1,2 +1,2 @@
 def happy_birthday(name, age):
-    print(f"Hello {name}! Have a Great Day!")
+    print(f"Happy birthday {name}! Congrats on turning {age}! I hope you have a great day!")
