@@ -1,2 +1,2 @@
-def fun():
-    print("hello")
+def fun(name):
+    print(f"hello {name}")
